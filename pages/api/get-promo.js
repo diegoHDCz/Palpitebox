@@ -1,6 +1,6 @@
 import { GoogleSpreadsheet }  from 'google-spreadsheet'
 
-import credencials from '../../credencials.json'
+
 
 const doc = new GoogleSpreadsheet(process.env.SHEET_DOC_ID)
 
