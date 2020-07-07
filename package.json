@@ -8,6 +8,7 @@
     "start": "next start",
     "build": "build next"
   },
+  "keywords":[],
   "author": "Diego Czjaka",
   "license": "MIT",
   "dependencies": {
